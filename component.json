@@ -8,10 +8,7 @@
         "tricks"
     ],
     "repo": "tpisto/snap",
-    "dependencies": {
-        "components/jquery": "*",
-        "components/jqueryui": "1.10.4"
-    },
+    "dependencies": {},
     "scripts": ["dist/snap.svg-min.js"],
     "main": "dist/snap.svg-min.js"
 }
