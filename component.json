@@ -1,6 +1,6 @@
 {
-  "name": "Snap.svg",
-  "repo": "adobe-webplatform/Snap.svg",
+  "name": "snap",
+  "repo": "tpisto/snap",
   "description": "The JavaScript library for modern SVG graphics.",
   "version": "0.3.0",
   "keywords": ["svg", "snap", "js", "javascript"],
