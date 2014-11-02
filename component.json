@@ -1,13 +1,17 @@
 {
-  "name": "snap",
-  "repo": "tpisto/snap",
-  "description": "The JavaScript library for modern SVG graphics.",
-  "version": "0.3.0",
-  "keywords": ["svg", "snap", "js", "javascript"],
-  "dependencies": {},
-  "development": {},
-  "main": "dist/snap.svg-min.js",
-  "scripts": [
-    "dist/snap.svg-min.js"
-  ]
+    "name": "snap",
+    "description": "The JavaScript library for modern SVG graphics.",
+    "version": "0.3.0",
+    "keywords": [
+        "javascript",
+        "awesome",
+        "tricks"
+    ],
+    "repo": "tpisto/snap",
+    "dependencies": {
+        "components/jquery": "*",
+        "components/jqueryui": "1.10.4"
+    },
+    "scripts": ["dist/snap.svg-min.js"],
+    "main": "dist/snap.svg-min.js"
 }
